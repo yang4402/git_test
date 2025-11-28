@@ -1,3 +1,3 @@
 <?php
-echo 'runoob1';
+echo 'runoob';
 ?>
