@@ -1,5 +1,5 @@
 <?php
 echo 1-2;
 echo 'runoob';
-echo tt;
+echo ttsts;
 ?>
