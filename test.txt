@@ -1,2 +1,2 @@
 This is a new file to test Meger.
-A new line.
+A new line1.
